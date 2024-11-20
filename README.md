@@ -1,4 +1,4 @@
-# An-lisis-de-Embudo-de-Ventas-y-Pruebas-A-A-B-para-Optimizaci-n-de-UX
+# Análisis de Embudo de Ventas y Pruebas A-A-B para Optimización de UX
 
  una empresa emergente del sector alimenticio que busca optimizar el rendimiento de su aplicación mediante el análisis del comportamiento de sus usuarios. El objetivo principal es comprender cómo los usuarios interactúan con el embudo de ventas y evaluar el impacto de un cambio en el diseño de las fuentes mediante un test A/A/B.
 
